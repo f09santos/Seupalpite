@@ -1,0 +1,25 @@
+{
+  "name": "palpitebox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "FABIO SANTOS",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.1.5",
+    "postcss-import": "^14.1.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24"
+  }
+}
